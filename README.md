@@ -1,12 +1,12 @@
 "# C-Users-user-OneDrive-Desktop-Data-Science-Customer-Churn-Prediction" 
-Heart Disease Prediction Project
+Customer Churn Prediction Project
 Description:
-This project aims to predict the likelihood of heart disease using machine learning techniques. We utilized a dataset containing various health parameters such as age, sex, blood pressure, cholesterol levels, and more. After data preprocessing, feature selection, and model evaluation, we implemented different machine learning algorithms, including Logistic Regression, Random Forest, and Support Vector Machines. The model with the best performance was selected based on accuracy, precision, and recall.
+This project focuses on predicting customer churn for a telecom company. The dataset includes customer demographics, account information, and usage patterns. The objective was to identify customers likely to leave the company, allowing proactive measures for customer retention. We applied several machine learning models, such as Decision Trees, Gradient Boosting, and Logistic Regression, to identify key churn indicators.
 Key Tools/Technologies:
 
 Python
 Pandas, NumPy
-Scikit-learn (Logistic Regression, Random Forest, SVM)
+Scikit-learn (Decision Trees, Logistic Regression, Gradient Boosting)
 Data visualization (Matplotlib, Seaborn)
 Outcome:
-The model was able to accurately predict heart disease with an accuracy of X% (fill in your result), and this project showcases the importance of health data in building predictive models for early detection.
+Our model achieved an accuracy of X% (fill in your result). The insights gained from the analysis can help companies reduce churn by understanding customer behavior and improving service offerings.
